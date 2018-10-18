@@ -1,8 +1,8 @@
-# Simple-altimeter-with-oled-display
+# Simple altimeter with oled display
 
-This is a really simple example using two I2C devices. I've used 
+This is a really simple example using two I2C devices. I've used bits and pieces from the example sketchs from the sensors libraries. 
 
-*Caution:* Double check the sensors input voltage requirements.
+**Caution:** Double check the sensors input voltage requirements.
 My sensors where 3.3V, both.
 
 _Material needed:_
@@ -17,10 +17,10 @@ _Libraries used (Arduino non-native):_
 - U8g2 livrary for monochrome displays https://github.com/olikraus/u8g2
 
 Connections:
-Vcc to 3.3
-GND to GND
-SDA to SDA
-SCL to SCL
+- Vcc to 3.3
+- GND to GND
+- SDA to SDA
+- SCL to SCL
 
 Notes:
 For the code to work, I had to add Wire.end(); and Wire.begin(); around the u8g2 commands. 
