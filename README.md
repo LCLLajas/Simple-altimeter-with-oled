@@ -22,8 +22,8 @@ GND to GND
 SDA to SDA
 SCL to SCL
 
+Notes:
+For the code to work, I had to add Wire.end(); and Wire.begin(); around the u8g2 commands. 
 
 ![](https://github.com/LCLLajas/Simple-altimeter-with-oled/blob/master/Connections.jpg)
 
-Notes:
-For the code to work, I had to add Wire.end(); and Wire.begin(); around the u8g2 commands. 
