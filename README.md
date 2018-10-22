@@ -23,6 +23,6 @@ Connections:
 - SCL to SCL
 
 Notes:
-For the code to work, I had to add Wire.end(); and Wire.begin(); around the u8g2 commands. 
+For the code to work, I had to add Wire.end(); and Wire.begin(); around the u8g2 commands as christianbenavent stated here:  https://forum.arduino.cc/index.php?topic=490358.0
 
 ![](https://github.com/LCLLajas/Simple-altimeter-with-oled-display/blob/master/Connections%201000.jpg)
