@@ -2,7 +2,8 @@
 
 This is a really simple example using two I2C devices. I've used bits and pieces from the example sketches from the devices libraries. 
 
-**Caution:** Double check the sensor and display input voltage requirements.  My sensor and display where 3.3V, both.
+**Caution:** Double check the sensor and display input voltage requirements.  
+My sensor and display where 3.3V, both.
 
 _Material needed:_
 
