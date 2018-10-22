@@ -2,8 +2,7 @@
 
 This is a really simple example using two I2C devices. I've used bits and pieces from the example sketches from the devices libraries. 
 
-**Caution:** Double check the sensor and display input voltage requirements.
-My sensor and display where 3.3V, both.
+**Caution:** Double check the sensor and display input voltage requirements.  My sensor and display where 3.3V, both.
 
 _Material needed:_
 
@@ -16,7 +15,7 @@ _Libraries used (Arduino non-native):_
 - Adafruit-BPM085-Library https://github.com/adafruit/Adafruit-BMP085-Library
 - U8g2 library for monochrome displays https://github.com/olikraus/u8g2
 
-Connections:
+_Connections:_
 - Vcc to 3.3
 - GND to GND
 - SDA to SDA
