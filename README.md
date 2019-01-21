@@ -9,7 +9,7 @@ _Material needed:_
 
 - Arduino board
 - Pressure sensor BMP 085
-- OLED Display SSD1306 124x32
+- OLED Display SSD1306 128x32
 
 _Libraries used (Arduino non-native):_
 
